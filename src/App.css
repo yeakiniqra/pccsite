@@ -1,0 +1,29 @@
+/* Add this to your CSS file or style block */
+.dark-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7); /* Adjust the alpha value for darkness */
+  }
+  
+
+  @keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  .animated-gradient {
+    background: linear-gradient(160deg, #0093E9 20%, #80D0C7 70%  );
+    background-size: 200% 200%;
+    animation: gradientAnimation 3s linear infinite;
+  }
+  

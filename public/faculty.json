@@ -1,0 +1,60 @@
+{
+  "faculty": [
+    {
+      "Name": "Sk. Tanzir Mehedi",
+      "Designation": "Lecturer",
+      "Responsibility": "Convener & Coach",
+      "Email": "tanzirmehedi@uap-bd.edu"
+    },
+    {
+      "Name": "Sabiha Tahsin Soha",
+      "Designation": "Lecturer",
+      "Responsibility": "Treasurer & Coach",
+      "Email": "soha@uap-bd.edu"
+    },
+    {
+      "Name": "Asma Mariam",
+      "Designation": "Lecturer",
+      "Responsibility": "Secretary",
+      "Email": "asma@uap-bd.edu"
+    },
+    {
+      "Name": "Durjoy Mistry",
+      "Designation": "Lecturer",
+      "Responsibility": "Selector",
+      "Email": "durjoy@uap-bd.edu"
+    },
+    {
+      "Name": "Muhtasim Noor Alif",
+      "Designation": "Lecturer",
+      "Responsibility": "Coordinator",
+      "Email": "muhtasimnoor@gmail.com"
+    },
+    {
+      "Name": "Sumaiya Akter Mitu",
+      "Designation": "Lecturer",
+      "Responsibility": "Controller",
+      "Email": "sumaiya@uap-bd.edu"
+    },
+    {
+      "Name": "Nuzhat Progga",
+      "Designation": "Lecturer",
+      "Responsibility": "Manager",
+      "Email": "progga@uap-bd.edu"
+    }
+  ],
+  "advisor": [
+    {
+      "Name": "Md Azim Islam",
+      "Batch": 46,
+      "RegId": 19201026,
+      "Email": "19201026@uap-bd.edu"
+    },
+    {
+      "Name": "Md. Shihab Ahmed",
+      "Batch": 46,
+      "RegId": 19201051,
+      "Email": "19201051@uap-bd.edu"
+    }
+  ]
+}
